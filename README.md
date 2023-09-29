@@ -48,7 +48,7 @@ npm run dev
 
 👤 **<Кир>** 
 
-- Github: [@<KiryhaUdmurt>](https://github.com/<KiryhaUdmurt>)
+- Github: [@KiryhaUdmurt](https://github.com/KiryhaUdmurt)
 
 ## Поддержка
 
